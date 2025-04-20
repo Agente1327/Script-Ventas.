@@ -1,0 +1,2 @@
+Hola este es un script usando powershell.
+
